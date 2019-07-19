@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "Name":"Hoàng Văn Thiện",
+        "Tel":"0948820369",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "Name":"Nguyễn Đức Việt",
+        "Tel":"0948820389",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "Name":"Trần Văn Phương",
+        "Tel":"0948886955",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "Name":"Trần Thị Phượng",
+        "Tel":"094666666",
+        "Permission":2
+    },
+    {
+        "id":5,
+        "Name":"Đinh Thiên Hoàng",
+        "Tel":"0948999999",
+        "Permission":2
+    },
+    {
+        "id":6,
+        "Name":"Hoàng Khánh Vy",
+        "Tel":"099999969",
+        "Permission":3
+    },
+    {
+        "id":7,
+        "Name":"Hoàng Thị Thu Phương",
+        "Tel":"0948820369",
+        "Permission":1
+    }
+]
